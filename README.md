@@ -1,2 +1,2 @@
 # Hello-world
-This is a program that makes every beginner, like me, become enthused about starting a career in CS.
+Hello-world: A quote so simple yet strong enough to make a person launch a career in CS.
